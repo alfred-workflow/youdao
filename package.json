@@ -1,6 +1,6 @@
 {
     "name": "@alfred-workflows/youdao",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An Alfred workflow uses Youdao for translation",
     "main": "dist/index.js",
     "scripts": {
